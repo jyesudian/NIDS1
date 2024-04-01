@@ -1,3 +1,10 @@
+This is created out of https://github.com/tuanhong3498/Evaluation-of-Machine-Learning-Algorithm-in-Network-Based-Intrusion-Detection-System/tree/master
+
+Chua, T.-H.; Salam, I. Evaluation of Machine Learning Algorithms in Network-Based Intrusion Detection Using Progressive Dataset. Symmetry 2023, 15, 1251. https://doi.org/10.3390/sym15061251
+
+
+Original Content of the README
+
 # Evaluation-of-Machine-Learning-Algorithm-in-Network-Based-Intrusion-Detection-System
 This repository provides the source code of the experiments conducted in "Evaluation of Machine Learning Algorithms in Network-Based Intrusion Detection System" (A thesis submitted for the degree of Bachelor of Engineering in Software Engineering (Honours) in Xiamen University Malaysia)
 
